@@ -1,0 +1,5 @@
+Extension: jpg
+Preguntar para cada link (1 o 0): 1
+Intentar buscar nombre de carpeta (1 o 0): 0
+Links (uno por linea):
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRx-l-rZGNd4WwLs6lroOnqg30z5w%3A1570217416441&source=hp&ei=yJ2XXeudF82zsAfks53ICw&q=loco&oq=loco&gs_l=psy-ab.3..0l10.1050.1394..1565...0.0..0.84.358.5......0....1..gws-wiz.....0..0i131.uCBSgM-r9BM&ved=0ahUKEwjrocvaq4PlAhXNGewKHeRZB7kQ4dUDCAY&uact=5
