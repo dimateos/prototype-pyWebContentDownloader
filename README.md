@@ -8,7 +8,7 @@
 ```python
 import urllib.request #html requests
 #import webbrowser #check htmls
-from bs4 import BeautifulSoup #html soup
+#from bs4 import BeautifulSoup #html soup
 import re #regular expresions
 import os #working with directories
 import datetime #unique folders

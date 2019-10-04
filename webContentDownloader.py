@@ -26,7 +26,7 @@
 
 import urllib.request #html requests
 #import webbrowser #check htmls
-from bs4 import BeautifulSoup #html soup
+# from bs4 import BeautifulSoup #html soup
 import re #regular expresions
 import os #working with directories
 import datetime #unique folders
@@ -126,6 +126,7 @@ def getDomain(url):
 
     return dom, fail
 
+"""
 #find the soup
 lookslikeClass = "voc-figure-container__figure"
 def getElements(html):
@@ -144,6 +145,7 @@ def getElements(html):
     #    print("--> ", elem, " : ", elements[0][elem])
 
     return elements
+"""
 
 # extract the links
 lookslikeAttr = "data-voc-image"
